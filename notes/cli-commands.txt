@@ -1,0 +1,11 @@
+- install angular cli
+    npm install -g @angular/cli
+
+- install angular
+    ng new my-first-app
+    ng new ./
+    - if new
+        ng new my-first-app --no-strict --standalone false --routing false
+
+- start angular server
+    ng serve

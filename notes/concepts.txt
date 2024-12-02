@@ -1,0 +1,13 @@
+components and data binding
+directives
+service and dependency injection
+routing
+observables
+forms
+pipes
+http
+authentication
+optimizations and NgModules
+deployment
+animations
+testing
