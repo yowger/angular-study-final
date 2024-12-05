@@ -9,3 +9,10 @@
 
 - start angular server
     ng serve
+
+--------------
+
+make components
+    ng generate component servers
+        or
+    ng g c servers
